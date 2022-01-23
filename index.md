@@ -63,6 +63,23 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 [Course Syllabus](files/48bsy.html)
 
+#### 1) Time Series Representation Methods
+
+[Report](files/48bhw1.html)
+
+[Jupyter Notebook](files/48bhw1.ipynb)
+
+#### 2) Time Series Classification
+
+[Report](files/48bhw2.html)
+
+[Jupyter Notebook](files/48bhw2.ipynb)
+
+#### 3) Forecasting Solar Power Production with Explainable Boosted Linear Regression (EBLR)
+
+[Report](files/48bhw3.html)
+
+[Jupyter Notebook](files/48bhw3.ipynb)
 
 ## IE440 - Non-linear Models in Operations Research
 
