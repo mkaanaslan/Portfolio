@@ -1,1 +1,0 @@
-Kaan Aslan Portfolio
