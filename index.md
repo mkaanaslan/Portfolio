@@ -1,5 +1,7 @@
 
-Mustafa Kaan Aslan Portfolio
+# Mustafa Kaan Aslan Portfolio
+
+Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering student at Bogaziçi University, Istanbul. I am currently taking courses on operations research and data science with high enthusiasm in data analysis and machine learning. I am willing to have a career on data science. Here is listed some of the important elective courses I have taken from many respectable instructors in Bogazici University. Assignments and projects from those courses which I completed is available here both in "html" and "jupyter notebook" formats. I am competent in both Python and R programming languages as a data scientist to be, but in the most of the assignments R is used.
 
 
 
