@@ -25,7 +25,7 @@
 
 [Here](files/360hw3.ipynb) is my Jupyter Notebook file for the assignment.
 
-4) Daily Forecast of 9 Products form Trendyol (Project)
+4) Daily Forecast of 9 Products from Trendyol (Project)
 
 [Here](files/360projectAnalysis.html) is my Homework 2 report.  
 
