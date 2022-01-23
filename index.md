@@ -10,23 +10,28 @@
 #### 1) Visual Data Analysis
 
 [Report](files/360hw1.html)
+
 [Jupyter Notebook](files/360hw1.ipynb)
 
 #### 2) Forecasting with Linear Regression
 
 [Report](files/360hw2.html)
+
 [Jupyter Notebook](files/360hw2.ipynb)
 
 #### 3) Forecasting Electricity Consumption with ARIMA models
 
 [Report](files/360hw3.html)
+
 [Jupyter Notebook](files/360hw3.ipynb)
 
 #### 4) Daily Forecast of 9 Products from Trendyol (Project)
 
 [Report](files/360projectReport.html)
-[Data Analysis and Forecast Steps](files/360projectAnalysis.html) is data analysis and forecasting steps for the project.  
-[Jupyter Notebook](files/360project.ipnyb) is my Jupyter Notebook file for the project.
+
+[Data Analysis and Forecast Steps](files/360projectAnalysis.html)
+
+[Jupyter Notebook](files/360project.ipnyb)
 
 
 ## IE425 - Data Mining
@@ -36,16 +41,19 @@
 #### 1) Cross-validation and Decision Tree Pruning
 
 [Report](files/425hw1.html)
+
 [Jupyter Notebook](files/425hw1.ipynb)
 
 #### 2) Random Forest - Gradient Boosting - Linear Regression Performance Measures
 
 [Report](files/425hw2.html)
+
 [Jupyter Notebook](files/425hw2.ipynb)
 
 #### 3) Kobe Braynt Shot Prediction Kaggle Competition (Project)
 
 [Report](files/425project.html)
+
 [Jupyter Notebook](files/425project.ipynb)
 
 
