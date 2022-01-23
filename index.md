@@ -1,6 +1,5 @@
 
 
-# Mustafa Kaan Aslan Portfolio
 
 
 ## IE360 - Statistical Forecasting and Time Series
