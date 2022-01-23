@@ -7,25 +7,25 @@
 
 [Course Syllabus](files/360sy.html)
 
-1) Visual Data Analysis
+### 1) Visual Data Analysis
 
 [Here](files/360hw1.html) is report for the assigment.  
 
 [Here](files/360hw1.ipynb) is my Jupyter Notebook file for the assignment.
 
-2) Forecasting with Linear Regression
+### 2) Forecasting with Linear Regression
 
 [Here](files/360hw2.html) is report for the assigment.   
 
 [Here](files/360hw2.ipynb) is my Jupyter Notebook file for the assignment.
 
-3) Forecasting Electricity Consumption with ARIMA models
+### 3) Forecasting Electricity Consumption with ARIMA models
 
 [Here](files/360hw3.html) is report for the assigment.  
 
 [Here](files/360hw3.ipynb) is my Jupyter Notebook file for the assignment.
 
-4) Daily Forecast of 9 Products from Trendyol (Project)
+### 4) Daily Forecast of 9 Products from Trendyol (Project)
 
 [Here](files/360projectAnalysis.html) is my Homework 2 report.  
 
