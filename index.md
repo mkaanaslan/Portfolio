@@ -93,5 +93,29 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 [Course Syllabus](files/440sy.html)
 
+#### 1) Cyclic Search Algorithm
+
+[Report](files/440cyc.html)
+
+[Jupyter Notebook](files/440cyc.ipynb)
+
+#### 2) Steepest Descent Algorithm
+
+[Report](files/440sd.html)
+
+[Jupyter Notebook](files/440sd.ipynb)
+
+#### 3) Newton's Algorithm for Multi-dimensional Functions
+
+[Report](files/440n.html)
+
+[Jupyter Notebook](files/440n.ipynb)
+
+#### 4) Linear and Polynomial Regression with Search Algorithms
+
+[Report](files/440reg.html)
+
+[Jupyter Notebook](files/440reg.ipynb)
+
 
 
