@@ -83,11 +83,11 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 #### 4) Predicting Electricity Production Direction with Time Series Classification
 
-[Report](files/48bprojectreport.html)
+[Report](files/48projectreport.html)
 
 [Code and Analysis Report](files/48bprojectanalysis.html)
 
-[Jupyter Notebook](files/48bprojectcode.html)
+[Jupyter Notebook](files/48bprojectcode.ipynb)
 
 ## IE440 - Non-linear Models in Operations Research
 
