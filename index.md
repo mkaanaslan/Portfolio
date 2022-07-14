@@ -150,5 +150,13 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 - [Code](files/517project.html)
 
+## Senior Project - Personalized Dynamic Pricing in Agricultural Loan Applications
+---
+Project Advisor: Mustafa Gökçe Baydoğan
+- Agricultural loan applications have a wide range of customer types and profit maximization is a very common topic in this area. Personalized dynamic pricing is one of the approaches to use in pricing strategies with the improvement in the data driven models. In this project, we propose different machine learning methods such as logistic regression, clustering methods, and model-based trees to learn the demand curves of different types of customers and segment the customers according to their price sensitivities. Then, the outputs are used to make a dynamic pricing strategy to reach the target of collected amount of money with high profitability. Our methodology dynamically prices the loans according to how close the target is. Finally, the models and the pricing strategy is tested by simulation.
+- [Project Proposal](files/PROJECTproposal.html)
+- [Project Report](files/PROJECTrapor.html)
+- [Jupyter Notebook](files/PROJECTcode.ipynb)
+
 
 
