@@ -6,6 +6,7 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 
 ## IE360 - Statistical Forecasting and Time Series
+---
 
 [Course Syllabus](files/360sy.html)
 
