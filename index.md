@@ -38,6 +38,7 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 
 ## IE425 - Data Mining
+---
 
 [Course Syllabus](files/425sy.html)
 
@@ -61,6 +62,7 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 
 ## IE48B - Time Series Analytics
+---
 
 [Course Syllabus](files/48bsy.html)
 
@@ -91,6 +93,7 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 - [Jupyter Notebook](files/48bprojectcode.ipynb)
 
 ## IE440 - Non-linear Models in Operations Research
+---
 
 [Course Syllabus](files/440sy.html)
 
@@ -119,6 +122,7 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 - [Jupyter Notebook](files/440reg.ipynb)
 
 ## IE517 - Heuristic Search Algorithms
+---
 
 [Course Syllabus](files/517syllabus.html)
 
