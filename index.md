@@ -11,9 +11,9 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 #### 1) Visual Data Analysis
 
-[Report](files/360hw1.html)
+- [Report](files/360hw1.html)
 
-[Jupyter Notebook](files/360hw1.ipynb)
+- [Jupyter Notebook](files/360hw1.ipynb)
 
 #### 2) Forecasting with Linear Regression
 
