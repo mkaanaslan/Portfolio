@@ -17,23 +17,23 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 #### 2) Forecasting with Linear Regression
 
-[Report](files/360hw2.html)
+- [Report](files/360hw2.html)
 
-[Jupyter Notebook](files/360hw2.ipynb)
+- [Jupyter Notebook](files/360hw2.ipynb)
 
 #### 3) Forecasting Electricity Consumption with ARIMA models
 
-[Report](files/360hw3.html)
+- [Report](files/360hw3.html)
 
-[Jupyter Notebook](files/360hw3.ipynb)
+- [Jupyter Notebook](files/360hw3.ipynb)
 
 #### 4) Daily Forecast of 9 Products from Trendyol (Project)
 
-[Report](files/360projectReport.html)
+- [Report](files/360projectReport.html)
 
-[Data Analysis and Forecast Steps](files/360projectAnalysis.html)
+- [Data Analysis and Forecast Steps](files/360projectAnalysis.html)
 
-[Jupyter Notebook](files/360project.ipnyb)
+- [Jupyter Notebook](files/360project.ipnyb)
 
 
 ## IE425 - Data Mining
@@ -42,21 +42,21 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 #### 1) Cross-validation and Decision Tree Pruning
 
-[Report](files/425hw1.html)
+- [Report](files/425hw1.html)
 
-[Jupyter Notebook](files/425hw1.ipynb)
+- [Jupyter Notebook](files/425hw1.ipynb)
 
 #### 2) Random Forest - Gradient Boosting - Linear Regression Performance Measures
 
-[Report](files/425hw2.html)
+- [Report](files/425hw2.html)
 
-[Jupyter Notebook](files/425hw2.ipynb)
+- [Jupyter Notebook](files/425hw2.ipynb)
 
 #### 3) Kobe Braynt Shot Prediction Kaggle Competition (Project)
 
-[Report](files/425project.html)
+- [Report](files/425project.html)
 
-[Jupyter Notebook](files/425project.ipynb)
+- [Jupyter Notebook](files/425project.ipynb)
 
 
 ## IE48B - Time Series Analytics
@@ -65,29 +65,29 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 #### 1) Time Series Representation Methods
 
-[Report](files/48bhw1.html)
+- [Report](files/48bhw1.html)
 
-[Jupyter Notebook](files/48bhw1.ipynb)
+- [Jupyter Notebook](files/48bhw1.ipynb)
 
 #### 2) Time Series Classification
 
-[Report](files/48bhw2.html)
+- [Report](files/48bhw2.html)
 
-[Jupyter Notebook](files/48bhw2.ipynb)
+- [Jupyter Notebook](files/48bhw2.ipynb)
 
 #### 3) Forecasting Solar Power Production with Explainable Boosted Linear Regression (EBLR)
 
-[Report](files/48bhw3.html)
+- [Report](files/48bhw3.html)
 
-[Jupyter Notebook](files/48bhw3.ipynb)
+- [Jupyter Notebook](files/48bhw3.ipynb)
 
 #### 4) Predicting Electricity Production Direction with Time Series Classification
 
-[Report](files/48projectreport.html)
+- [Report](files/48projectreport.html)
 
-[Code and Analysis Report](files/48bprojectanalysis.html)
+- [Code and Analysis Report](files/48bprojectanalysis.html)
 
-[Jupyter Notebook](files/48bprojectcode.ipynb)
+- [Jupyter Notebook](files/48bprojectcode.ipynb)
 
 ## IE440 - Non-linear Models in Operations Research
 
@@ -95,27 +95,27 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 #### 1) Cyclic Search Algorithm
 
-[Report](files/440cyc.html)
+- [Report](files/440cyc.html)
 
-[Jupyter Notebook](files/440cyc.ipynb)
+- [Jupyter Notebook](files/440cyc.ipynb)
 
 #### 2) Steepest Descent Algorithm
 
-[Report](files/440sd.html)
+- [Report](files/440sd.html)
 
-[Jupyter Notebook](files/440sd.ipynb)
+- [Jupyter Notebook](files/440sd.ipynb)
 
 #### 3) Newton's Algorithm for Multi-dimensional Functions
 
-[Report](files/440n.html)
+- [Report](files/440n.html)
 
-[Jupyter Notebook](files/440n.ipynb)
+- [Jupyter Notebook](files/440n.ipynb)
 
 #### 4) Linear and Polynomial Regression with Search Algorithms
 
-[Report](files/440reg.html)
+- [Report](files/440reg.html)
 
-[Jupyter Notebook](files/440reg.ipynb)
+- [Jupyter Notebook](files/440reg.ipynb)
 
 ## IE517 - Heuristic Search Algorithms
 
@@ -123,27 +123,27 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 #### 1) Solving the Quadratic Assignment Problem using Construction and Improvement Heuristics
 
-[Report](files/517hw1rapor.html)
+- [Report](files/517hw1rapor.html)
 
-[Code](files/517hw1.html)
+- [Code](files/517hw1.html)
 
 #### 2) Solving the Median Tour Problem using Tabu Search
 
-[Report](files/517hw2rapor.html)
+- [Report](files/517hw2rapor.html)
 
-[Code](files/517hw2.html)
+- [Code](files/517hw2.html)
 
 #### 3) Solving the Generalized Assignment Problem using Genetic Algorithm
 
-[Report](files/517hw3rapor.html)
+- [Report](files/517hw3rapor.html)
 
-[Code](files/517hw3.html)
+- [Code](files/517hw3.html)
 
 #### 4) Solving the Traveling Salesman Problem with Profits using Ant Colony Optimization and Simulated Annealing
 
-[Report](files/517Projectrapor.html)
+- [Report](files/517Projectrapor.html)
 
-[Code](files/517project.html)
+- [Code](files/517project.html)
 
 
 
