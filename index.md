@@ -117,5 +117,33 @@ Hi! Welcome to my Github portfolio. I'm Kaan, senior Industrial Engineering stud
 
 [Jupyter Notebook](files/440reg.ipynb)
 
+## IE517 - Heuristic Search Algorithms
+
+[Course Syllabus](files/517syllabus.html)
+
+#### 1) Solving the Quadratic Assignment Problem using Construction and Improvement Heuristics
+
+[Report](files/517hw1rapor.html)
+
+[Code](files/517hw1.html)
+
+#### 2) Solving the Median Tour Problem using Tabu Search
+
+[Report](files/517hw2rapor.html)
+
+[Code](files/517hw2.html)
+
+#### 3) Solving the Generalized Assignment Problem using Genetic Algorithm
+
+[Report](files/517hw3rapor.html)
+
+[Code](files/517hw3.html)
+
+#### 4) Solving the Traveling Salesman Problem with Profits using Ant Colony Optimization and Simulated Annealing
+
+[Report](files/517Projectrapor.html)
+
+[Code](files/517project.html)
+
 
 
